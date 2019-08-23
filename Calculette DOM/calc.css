@@ -1,0 +1,36 @@
+.ecran1 {
+    width: 100%;
+    height: 25px;
+    border-bottom: 2px solid black;
+}
+
+.calculatrice1 {
+    width: 10%;
+    height: 210px;
+    border: 2px solid black;
+    margin-left: 45%;
+}
+
+.groupe1, .groupe2, .groupe3 {
+    padding-left: 16%;
+    padding-top: 9%;
+}
+
+.groupe4 {
+    padding-top: 9%;
+    padding-left: 38%;
+}
+
+.groupe5 {
+    padding-left: 70%;
+    margin-top: -14%;
+}
+
+.groupe6 {
+    padding-top: 9%;
+    padding-left: 31%;
+}
+
+.red {
+    background-color: red;
+}
